@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="223.68" height="466.072" viewBox="0 0 223.68 466.072">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_340" data-name="Rectangle 340" width="216" height="465.839" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_339" data-name="Rectangle 339" width="224.612" height="471.732" rx="9" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_338" data-name="Rectangle 338" width="234.611" height="482.167" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 921 1684">
+      <image width="921" height="1684" xlink:href="background-image2.png"/>
+    </pattern>
+  </defs>
+  <g id="background" transform="translate(-700.32)">
+    <g id="Group_484" data-name="Group 484" transform="translate(708)">
+      <g id="Group_483" data-name="Group 483" clip-path="url(#clip-path)">
+        <g id="Group_482" data-name="Group 482" transform="translate(-4.035 -3.683)" opacity="0.62">
+          <g id="Group_481" data-name="Group 481">
+            <g id="Group_480" data-name="Group 480" clip-path="url(#clip-path-2)">
+              <g id="Group_479" data-name="Group 479" transform="translate(-5 -5.218)">
+                <g id="Group_478" data-name="Group 478">
+                  <g id="Group_477" data-name="Group 477" clip-path="url(#clip-path-3)">
+                    <g id="Group_476" data-name="Group 476">
+                      <g id="Group_475" data-name="Group 475" clip-path="url(#clip-path-3)">
+                        <g id="Group_474" data-name="Group 474" transform="translate(-0.085 -0.115)">
+                          <image id="Rectangle_336" data-name="Rectangle 336" width="233.684" height="460.2" xlink:href="background-image.png"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_486" data-name="Group 486" transform="translate(700.32 43.44)" opacity="0.91">
+      <rect id="Rectangle_341" data-name="Rectangle 341" width="221.04" height="422.632" opacity="0.22" fill="url(#pattern)" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <g id="Group_485" data-name="Group 485" transform="translate(11.033 11.054)">
+        <rect id="Rectangle_342" data-name="Rectangle 342" width="208.941" height="368.377" rx="9" fill="#fff"/>
+      </g>
+    </g>
+    <text id="LIST_" data-name="LIST " transform="translate(721.822 48.561)" stroke="#fff" stroke-miterlimit="10" stroke-width="1.25" font-size="39.691" font-family="FuturaPT-Heavy, Futura PT" font-weight="800" fill="none"><tspan x="0" y="0">LIST </tspan></text>
+  </g>
+</svg>

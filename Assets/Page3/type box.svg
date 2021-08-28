@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="181.496" height="40.667" viewBox="0 0 181.496 40.667">
+  <defs>
+    <filter id="type_box" x="0" y="0" width="181.496" height="40.667" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#type_box)">
+    <rect id="type_box-2" data-name="type box" width="162.496" height="21.667" rx="9" transform="translate(9.5 6.5)" fill="#fff" stroke="#d3d3d3" stroke-width="1"/>
+  </g>
+</svg>

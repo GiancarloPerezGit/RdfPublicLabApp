@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="216" height="432.296" viewBox="0 0 216 432.296">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_375" data-name="Rectangle 375" width="432.296" height="216" transform="translate(688 0) rotate(90)" fill="rgba(0,0,0,0)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_72" data-name="Path 72" d="M692.593,161.254a153.879,153.879,0,1,1,41.18-104.775,153.459,153.459,0,0,1-41.18,104.775" fill="rgba(0,0,0,0)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_374" data-name="Rectangle 374" width="317.759" height="317.758" transform="translate(421.015 -102.4)" fill="rgba(0,0,0,0)"/>
+    </clipPath>
+  </defs>
+  <g id="orange_circle" data-name="orange circle" transform="translate(-472 0)" clip-path="url(#clip-path)">
+    <g id="orange_circle-2" data-name="orange circle" opacity="0.62">
+      <image id="Rectangle_371" data-name="Rectangle 371" width="325.92" height="325.92" transform="translate(423.96 -99.48)" opacity="0.38" xlink:href="orange%20circle-image.png" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <g id="Group_535" data-name="Group 535">
+        <g id="Group_534" data-name="Group 534">
+          <g id="Group_533" data-name="Group 533" clip-path="url(#clip-path-2)">
+            <g id="Group_532" data-name="Group 532">
+              <g id="Group_531" data-name="Group 531">
+                <g id="Group_530" data-name="Group 530" clip-path="url(#clip-path-3)">
+                  <g id="Group_529" data-name="Group 529">
+                    <g id="Group_528" data-name="Group 528" clip-path="url(#clip-path-3)">
+                      <g id="Group_527" data-name="Group 527">
+                        <image id="Rectangle_372" data-name="Rectangle 372" width="318.24" height="318.24" transform="translate(420.96 -102.72)" xlink:href="orange%20circle-image2.png"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
